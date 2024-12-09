@@ -1,1 +1,2 @@
-https://docs.google.com/presentation/d/1rVCdmBfvrb7DbYyPpmeqgel4eImJak6cSefUmDlQ6y0/edit?usp=sharing
+AI: https://docs.google.com/presentation/d/1rVCdmBfvrb7DbYyPpmeqgel4eImJak6cSefUmDlQ6y0/edit?usp=sharing
+Cloud: https://docs.google.com/presentation/d/1pNSKKqdO_hgz6rNqYs2ZhFCBwJ3Y_5YhpN6LpjMw-Bw/edit?usp=sharing
